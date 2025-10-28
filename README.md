@@ -140,5 +140,5 @@ java -cp bin com.firewall.Main rules.txt sample_packets.txt
 
 Expected Output:
 
-Packet [TCP 192.168.1.5 → 10.0.0.2:80] → ALLOWED
-Packet [UDP 192.168.1.9 → 8.8.8.8:53] → DROPPED
+![WhatsApp Image 2025-10-28 at 15 54 00_f3d817ea](https://github.com/user-attachments/assets/572f3adc-c9a6-47fe-9ee7-c12379ab0e7d)
+
